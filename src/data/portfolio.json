@@ -1,0 +1,148 @@
+{
+  "basics": {
+    "name": "MD YEAPAS",
+    "location": "Shyamoli, Dhaka",
+    "phone": "+8801867-734016",
+    "email": "yeapesh2831@gmail.com",
+    "image": "https://avatars.githubusercontent.com/u/40892003?v=4"
+  },
+  "summary": "Software Engineer with 4+ years of experience developing scalable enterprise web applications using PHP and Laravel. Experienced in building Government ERP systems, BRAC Fleet Management solutions, legal case management platforms, and high-performance backend services with a strong focus on backend optimization, API design, and cloud deployment.",
+  "socials": [
+    {
+      "label": "GitHub",
+      "href": "https://github.com/Yeapes/"
+    },
+    {
+      "label": "LinkedIn",
+      "href": "https://www.linkedin.com/in/yeapes/"
+    },
+    {
+      "label": "Email",
+      "href": "mailto:yeapesh2831@gmail.com"
+    }
+  ],
+  "highlights": [
+    {
+      "label": "Years of experience",
+      "value": "4+"
+    },
+    {
+      "label": "Enterprise platforms",
+      "value": "ERP"
+    },
+    {
+      "label": "Backend specialization",
+      "value": "Laravel"
+    },
+    {
+      "label": "Cloud and delivery",
+      "value": "AWS"
+    }
+  ],
+  "experience": [
+    {
+      "company": "NEXKRAFT LTD.",
+      "role": "Software Engineer",
+      "period": "Jul 2025 – Present",
+      "highlights": [
+        "Working on the BPATC Government ERP system with secure RBAC and enterprise workflow management.",
+        "Developing the BRAC Fleet Management System with vehicle tracking and logistics-focused modules.",
+        "Building the BRAC Case Hub legal case management platform for structured legal operations.",
+        "Improving scalability through modular architecture and performance optimization."
+      ]
+    },
+    {
+      "company": "DURBAR TECHNOLOGIES LTD.",
+      "role": "Backend Developer",
+      "period": "Nov 2021 – Jun 2025",
+      "highlights": [
+        "Built backend architecture for OTT platforms with scalable APIs and service-oriented integrations.",
+        "Integrated AWS CloudFront CDN for optimized media and video delivery pipelines.",
+        "Improved application performance with ElasticSearch, Algolia, and Redis."
+      ]
+    },
+    {
+      "company": "YOUTH FIRE IT",
+      "role": "Web Application Developer",
+      "period": "Nov 2020 – Oct 2021",
+      "highlights": [
+        "Developed Laravel-based CRM systems and business automation tools for internal operations."
+      ]
+    }
+  ],
+  "skills": {
+    "Backend": ["PHP", "Laravel", "Node.js"],
+    "Frontend": ["JavaScript", "Vue.js", "React.js", "Next.js", "jQuery", "Bootstrap"],
+    "Database": ["MySQL", "PostgreSQL", "Redis"],
+    "Search": ["ElasticSearch", "Algolia"],
+    "Cloud & DevOps": ["Docker", "AWS", "DigitalOcean", "Linux"],
+    "Tools": ["Git", "REST APIs", "Agile/Scrum", "Postman"]
+  },
+  "projects": [
+    {
+      "name": "Fleet Management",
+      "category": "BRAC Platform",
+      "description": "Enterprise fleet solution focused on vehicle operations, logistics workflows, and operational visibility.",
+      "stack": ["Laravel", "Fleet Ops", "Tracking", "Logistics"],
+      "link": "https://ifleet.brac.net/index.php/user/login"
+    },
+    {
+      "name": "Legal App (BRAC Case Hub)",
+      "category": "Legal Operations",
+      "description": "Case management platform for organizing legal matters, workflow handling, and structured operational collaboration.",
+      "stack": ["Laravel", "Case Management", "RBAC", "Workflow"],
+      "link": "https://casehub.brac.net/"
+    },
+    {
+      "name": "BPATC Government ERP",
+      "category": "Government ERP",
+      "description": "Secure ERP platform designed for role-based access, internal workflows, and scalable enterprise modules.",
+      "stack": ["ERP", "Laravel", "RBAC", "Enterprise"],
+      "link": "https://www.erp.bpatc.gov.bd/"
+    }
+  ],
+  "freelanceProjects": [
+    {
+      "name": "Red Mermaid",
+      "category": "Freelance Project",
+      "description": "Client website delivery for an external business brand. Add the project summary, responsibilities, and stack details later.",
+      "stack": ["Website", "Client Work"],
+      "link": "https://redmermaid.com.au/"
+    },
+    {
+      "name": "VisiWave",
+      "category": "Freelance Project",
+      "description": "Freelance project entry prepared for future expansion with business goals, technical scope, and outcome details.",
+      "stack": ["Website", "Client Work"],
+      "link": "https://www.visiwave.xyz/"
+    },
+    {
+      "name": "NAPS Guards",
+      "category": "Freelance Project",
+      "description": "Client-facing web project placeholder ready for later enrichment with stack, features, and delivery notes.",
+      "stack": ["Website", "Client Work"],
+      "link": "https://www.napsguards.com/"
+    },
+    {
+      "name": "Innoel BD",
+      "category": "Freelance Project",
+      "description": "Freelance website record added to the content source so you can keep growing the portfolio from JSON only.",
+      "stack": ["Website", "Client Work"],
+      "link": "https://innoelbd.com/"
+    }
+  ],
+  "education": [
+    {
+      "degree": "B.Sc. in Computer Science & Engineering",
+      "institute": "Bangladesh University",
+      "period": "2020 – 2023",
+      "result": "CGPA 3.75 / 4.0"
+    },
+    {
+      "degree": "Diploma in Computer Technology",
+      "institute": "Lakshimpur Polytechnic Institute",
+      "period": "2015 – 2019",
+      "result": "GPA 3.39 / 4.0"
+    }
+  ]
+}
