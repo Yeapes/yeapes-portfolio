@@ -184,12 +184,6 @@ export default function Home() {
 
         <aside className="content-side">
           <section className="section-block compact">
-            <SectionHeading
-              eyebrow="Skills"
-              title="Tools I rely on"
-              description="Organized by category so you can keep expanding the stack without touching the layout."
-            />
-
             <div className="skills-stack">
               {skillGroups.map(([group, items]) => (
                 <article className="skill-group" key={group}>
