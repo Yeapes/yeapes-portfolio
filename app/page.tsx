@@ -41,7 +41,7 @@ export default function Home() {
   const skillGroups = Object.entries(portfolio.skills);
 
   return (
-    <main className="page-shell">
+    <main className="page-shell" id="top">
       <div className="ambient ambient-one" />
       <div className="ambient ambient-two" />
 
@@ -226,16 +226,43 @@ export default function Home() {
           <section className="section-block compact contact-card">
             <span className="eyebrow">Contact</span>
             <h2>Open to backend and full-stack opportunities</h2>
-            <p>
-              This area is ready for your real GitHub, LinkedIn, CV link, and future project URLs as
-              soon as you send them over.
-            </p>
+            <a
+              href="https://wa.me/8801867734016"
+              target="_blank"
+              rel="noreferrer"
+              className="contact-link"
+            >
+              WhatsApp
+            </a>
             <a href={`mailto:${portfolio.basics.email}`} className="contact-link">
               {portfolio.basics.email}
             </a>
           </section>
         </aside>
       </section>
+
+      <div className="floating-actions" aria-label="Quick actions">
+        <a
+          href="https://wa.me/8801867734016"
+          target="_blank"
+          rel="noreferrer"
+          className="floating-action whatsapp-action"
+          aria-label="Chat on WhatsApp"
+        >
+          <img
+            src="/whatsapp-color-svgrepo-com.svg"
+            alt=""
+            className="floating-icon whatsapp-icon"
+            aria-hidden="true"
+          />
+        </a>
+
+        <a href="#top" className="floating-action top-action" aria-label="Back to top">
+          <span className="floating-icon" aria-hidden="true">
+            ↑
+          </span>
+        </a>
+      </div>
     </main>
   );
 }

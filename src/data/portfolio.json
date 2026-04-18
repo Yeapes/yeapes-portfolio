@@ -108,29 +108,29 @@
     {
       "name": "Red Mermaid",
       "category": "Freelance Project",
-      "description": "Client website delivery for an external business brand. Add the project summary, responsibilities, and stack details later.",
-      "stack": ["Website", "Client Work"],
+      "description": "Seafood business website built with CMS support for managing content, product presentation, and business updates.",
+      "stack": ["CMS", "Business Website", "Client Work"],
       "link": "https://redmermaid.com.au/"
     },
     {
       "name": "VisiWave",
       "category": "Freelance Project",
-      "description": "Freelance project entry prepared for future expansion with business goals, technical scope, and outcome details.",
-      "stack": ["Website", "Client Work"],
+      "description": "Business platform presenting VisiWave's service areas across Security Services, Software Development, BPO, and Agri-Care with a clear company positioning around innovation and growth.",
+      "stack": ["Corporate Website", "Service Platform", "Client Work"],
       "link": "https://www.visiwave.xyz/"
     },
     {
       "name": "NAPS Guards",
       "category": "Freelance Project",
-      "description": "Client-facing web project placeholder ready for later enrichment with stack, features, and delivery notes.",
-      "stack": ["Website", "Client Work"],
+      "description": "Security services company website for North American Protection Services, highlighting its mission, long-standing experience since 1977, and tailored protection solutions across the Greater Toronto Area.",
+      "stack": ["Security Website", "Corporate Website", "Client Work"],
       "link": "https://www.napsguards.com/"
     },
     {
       "name": "Innoel BD",
       "category": "Freelance Project",
-      "description": "Freelance website record added to the content source so you can keep growing the portfolio from JSON only.",
-      "stack": ["Website", "Client Work"],
+      "description": "Website for a Bangladeshi electronics products company, focused on presenting the brand and its locally produced electronic items.",
+      "stack": ["Electronics Brand", "Business Website", "Client Work"],
       "link": "https://innoelbd.com/"
     }
   ],
