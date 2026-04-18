@@ -103,7 +103,7 @@ export default function Home() {
             <SectionHeading
               eyebrow="Experience"
               title="Building enterprise systems with a backend-first mindset"
-              description="Work history is driven from the central portfolio JSON so you can keep extending roles and bullet points later."
+              description=""
             />
 
             <div className="timeline">

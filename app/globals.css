@@ -220,9 +220,9 @@ ul {
 }
 
 .profile-avatar {
-  width: 110px;
-  height: 110px;
-  flex: 0 0 110px;
+  width: 136px;
+  height: 136px;
+  flex: 0 0 136px;
   object-fit: cover;
   border-radius: 999px;
   border: 2px solid rgba(94, 234, 212, 0.34);
