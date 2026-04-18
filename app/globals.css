@@ -306,6 +306,10 @@ ul {
   margin-bottom: 24px;
 }
 
+.sidebar-heading {
+  margin-bottom: 20px;
+}
+
 .section-heading h2 {
   max-width: 22ch;
   font-size: clamp(1.75rem, 3vw, 2.45rem);

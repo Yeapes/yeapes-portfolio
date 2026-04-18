@@ -25,13 +25,19 @@ function SectionHeading({
 
 function SocialButton({ item }: { item: SocialLink }) {
   const isReady = Boolean(item.href);
+  const isExternal = item.href?.startsWith("http");
 
   if (!isReady) {
     return <span className="social-pill muted">{item.label}</span>;
   }
 
   return (
-    <a className="social-pill" href={item.href} target="_blank" rel="noreferrer">
+    <a
+      className="social-pill"
+      href={item.href}
+      target={isExternal ? "_blank" : undefined}
+      rel={isExternal ? "noreferrer" : undefined}
+    >
       {item.label}
     </a>
   );
@@ -184,6 +190,10 @@ export default function Home() {
 
         <aside className="content-side">
           <section className="section-block compact">
+            <div className="sidebar-heading">
+              <span className="eyebrow">Skills</span>
+            </div>
+
             <div className="skills-stack">
               {skillGroups.map(([group, items]) => (
                 <article className="skill-group" key={group}>
@@ -221,7 +231,7 @@ export default function Home() {
             <span className="eyebrow">Contact</span>
             <h2>Open to backend and full-stack opportunities</h2>
             <a
-              href="https://wa.me/8801867734016"
+              href={portfolio.basics.whatsapp}
               target="_blank"
               rel="noreferrer"
               className="contact-link"
@@ -237,7 +247,7 @@ export default function Home() {
 
       <div className="floating-actions" aria-label="Quick actions">
         <a
-          href="https://wa.me/8801867734016"
+          href={portfolio.basics.whatsapp}
           target="_blank"
           rel="noreferrer"
           className="floating-action whatsapp-action"

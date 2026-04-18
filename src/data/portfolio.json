@@ -4,7 +4,8 @@
     "location": "Shyamoli, Dhaka",
     "phone": "+8801867-734016",
     "email": "yeapesh2831@gmail.com",
-    "image": "https://avatars.githubusercontent.com/u/40892003?v=4"
+    "image": "https://avatars.githubusercontent.com/u/40892003?v=4",
+    "whatsapp": "https://wa.me/8801867734016"
   },
   "summary": "Software Engineer with 4+ years of experience developing scalable enterprise web applications using PHP and Laravel. Experienced in building Government ERP systems, BRAC Fleet Management solutions, legal case management platforms, and high-performance backend services with a strong focus on backend optimization, API design, and cloud deployment.",
   "socials": [
@@ -26,20 +27,20 @@
   ],
   "highlights": [
     {
-      "label": "Years of experience",
-      "value": "4+"
+      "label": "Building software in Bangladesh",
+      "value": "4+ Years"
     },
     {
-      "label": "Enterprise platforms",
-      "value": "ERP"
+      "label": "Business systems delivery",
+      "value": "Enterprise"
     },
     {
-      "label": "Backend specialization",
-      "value": "Laravel"
+      "label": "Scalable service architecture",
+      "value": "Backend"
     },
     {
-      "label": "Cloud and delivery",
-      "value": "AWS"
+      "label": "Deployment and infrastructure",
+      "value": "Cloud"
     }
   ],
   "experience": [
@@ -148,4 +149,5 @@
       "result": "GPA 3.39 / 4.0"
     }
   ]
+  
 }
