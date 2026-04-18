@@ -130,8 +130,8 @@ export default function Home() {
           <section className="section-block" id="projects">
             <SectionHeading
               eyebrow="Projects"
-              title="Selected work and delivery context"
-              description="Project cards can be updated later by editing names, descriptions, tags, and links in one place."
+              title="Projects"
+              description=""
             />
 
             <div className="project-grid">
@@ -163,7 +163,7 @@ export default function Home() {
             <SectionHeading
               eyebrow="Freelance"
               title="Independent client projects"
-              description="This section is also powered from JSON, so future freelance work can be added by appending a new object to the array."
+              description=""
             />
 
             <div className="project-grid">
