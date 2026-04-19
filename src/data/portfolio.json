@@ -133,6 +133,27 @@
       "description": "Website for a Bangladeshi electronics products company, focused on presenting the brand and its locally produced electronic items.",
       "stack": ["Electronics Brand", "Business Website", "Client Work"],
       "link": "https://innoelbd.com/"
+    },
+    {
+      "name": "Designer Country",
+      "category": "Freelance Project",
+      "description": "Designer service provider website built to present creative services, showcase offerings, and support business visibility online.",
+      "stack": ["Service Website", "Business Website", "Client Work"],
+      "link": "https://designercountry.com/"
+    },
+    {
+      "name": "Holiday Travel Maldives",
+      "category": "Freelance Project",
+      "description": "Travel booking website for promoting packages, trip planning, and customer booking workflows for a Maldives travel business.",
+      "stack": ["Travel Website", "Booking Platform", "Client Work"],
+      "link": "https://holidaytravelmaldives.com/"
+    },
+    {
+      "name": "Manage Front Desk Travel Agency Company",
+      "category": "Freelance Project",
+      "description": "Travel agency front-desk management platform for handling internal operations and business workflow management.",
+      "stack": ["ERP", "Operations Platform", "Client Work"],
+      "link": "https://erp.holidaytravelmaldives.com/login"
     }
   ],
   "education": [
