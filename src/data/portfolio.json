@@ -154,6 +154,13 @@
       "description": "Travel agency front-desk management platform for handling internal operations and business workflow management.",
       "stack": ["ERP", "Operations Platform", "Client Work"],
       "link": "https://erp.holidaytravelmaldives.com/login"
+    },
+    {
+      "name": "Clipping Path Cutout",
+      "category": "Freelance Project",
+      "description": "Design service provider website positioned as a sub-brand of Designer Country, focused on creative production and image editing services.",
+      "stack": ["Design Services", "Sub Brand Website", "Client Work"],
+      "link": "https://www.clippingpathcutout.com"
     }
   ],
   "education": [
